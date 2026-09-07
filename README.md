@@ -1,4 +1,4 @@
-<h1 align="center">Aster · Leo 👋</h1>
+<h1 align="center">HotLike · Tuan 👋</h1>
 
 <p align="center">
   <b>Builder of AI-native commerce & automation</b><br/>
