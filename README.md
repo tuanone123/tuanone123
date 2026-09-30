@@ -14,11 +14,13 @@
 
 ### 🇬🇧 About me
 - 🛒 Building **HOTLIKESHOP** — an AI-native store for MMO / social accounts, proxies &amp; digital services. Search &amp; buy **directly from your AI assistant** (Claude, Cursor, ChatGPT) through the **Model Context Protocol (MCP)**.
+- 📚 Running **truyenhh3d.com** — a Vietnamese web-novel & donghua (HH3D) reading site with AI-assisted translation.
 - 🤖 I ship automation bots: content engines, social auto-reply, on-chain / whale trackers.
 - 🔗 Live AI endpoint → **https://hotlikeshop.com/ai**
 
 ### 🇻🇳 Giới thiệu
 - 🛒 Đang xây **HOTLIKESHOP** — cửa hàng AI-native bán tài khoản MMO / mạng xã hội, proxy &amp; dịch vụ số. Tìm &amp; mua **trực tiếp trong trợ lý AI** (Claude, Cursor, ChatGPT) qua **MCP**.
+- 📚 Vận hành **truyenhh3d.com** — website đọc tiểu thuyết & donghua (HH3D) tiếng Việt, dịch có hỗ trợ AI.
 - 🤖 Làm các bot tự động hoá: máy viết nội dung, auto-reply mạng xã hội, theo dõi dòng tiền on-chain.
 - 🔗 Cổng AI → **https://hotlikeshop.com/ai**
 
@@ -26,6 +28,7 @@
 | Repo | Mô tả |
 |------|-------|
 | [**hotlikeshop-mcp**](https://github.com/tuanone123/hotlikeshop-mcp) | MCP server (Streamable HTTP, 17 tools) — tìm &amp; mua hàng ngay trong AI assistant, không cần key cho phần tra cứu. |
+| [**awesome-hh3d**](https://github.com/tuanone123/awesome-hh3d) | Danh sách donghua &amp; tiểu thuyết chuyển thể HH3D bản Việt — đọc tại **[truyenhh3d.com](https://truyenhh3d.com)**. |
 
 ### 🛠️ Tech stack
 `Python` · `PHP / Laravel` · `MCP` · `Playwright` · `SQLite` · `TypeScript / Bun`
@@ -37,4 +40,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanone123&layout=compact&hide_border=true&theme=tokyonight" height="150">
 </p>
 
-<p align="center"><i>💬 Zalo · Telegram · hotlikeshop.com</i></p>
+<p align="center"><i>💬 Zalo · Telegram · hotlikeshop.com · truyenhh3d.com</i></p>
